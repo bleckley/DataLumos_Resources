@@ -16,4 +16,5 @@ Once you've identified a dataset and how to access it from a government website,
 - Find and download as much documentation associated with the data as possible. Codebooks, reports, user guides, and other supplemental documentation are as important for a future user's analysis of the data as the datasets themselves. Double-check the websites as documentation may be found under a different tab or link than the data.
 
 ## Go to [datalumos.org](www.datalumos.org)
-
+The DataLumos homepage looks like this:
+![screenshot of DataLumos.org homepage](/DataLumos_images/DataLumos_home.png "DataLumos.org homepage homepage")
